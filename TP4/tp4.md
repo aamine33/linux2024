@@ -155,7 +155,6 @@ Partie 2 : Serveur de partage de fichiers
 [amine@localhost ~]$ sudo nano /etc/exports
 (/storage/site_web_1 192.168.100.1(rw,sync,no_root_squash)
 /storage/site_web_2 192.168.100.1rw,sync,no_root_squash)
-)
 
 
 ```
